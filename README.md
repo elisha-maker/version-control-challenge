@@ -19,6 +19,8 @@ This repository contains beginner study notes for version control practice. It i
 |------|-------------|
 | `README.md` | Project overview and guide |
 | `notes.md` | Detailed study notes on Git and GitHub |
+| `resources.md` | Curated links and beginner checklist |
+| `.gitignore` | Specifies files Git should ignore |
 
 ## How to Use This Repository
 
