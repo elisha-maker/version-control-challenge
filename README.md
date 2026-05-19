@@ -20,6 +20,8 @@ This repository contains beginner study notes for version control practice. It i
 | `README.md` | Project overview and guide |
 | `notes.md` | Detailed study notes on Git and GitHub |
 | `resources.md` | Curated links and beginner checklist |
+| `reflection.md` | Self-review and reflection on the workflow |
+| `CONTRIBUTING.md` | Guide for contributors |
 | `.gitignore` | Specifies files Git should ignore |
 
 ## How to Use This Repository
@@ -28,3 +30,8 @@ This repository contains beginner study notes for version control practice. It i
 2. Read **`notes.md`** for detailed study notes on Git and GitHub basics
 3. Practice the commands listed in the notes on your own projects
 4. Use the GitHub workflow section as a reference when collaborating
+5. Check **`CONTRIBUTING.md`** if you want to contribute to this project
+
+## Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit changes.
