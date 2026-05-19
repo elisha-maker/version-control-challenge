@@ -8,10 +8,21 @@ This repository contains beginner study notes for version control practice. It i
 
 ## Topics Covered
 
-- Git basics
-- GitHub workflow
-- Collaboration
+- Git basics (commands, concepts, and terminology)
+- GitHub workflow (cloning, branching, pull requests)
+- Collaboration (working with teams using version control)
+- Best practices for commit messages and project organization
+
+## Project Structure
+
+| File | Description |
+|------|-------------|
+| `README.md` | Project overview and guide |
+| `notes.md` | Detailed study notes on Git and GitHub |
 
 ## How to Use This Repository
 
-Open the files and review the notes. Start with this README for an overview, then explore `notes.md` for detailed study content.
+1. Start with this **README** for a high-level overview of the project
+2. Read **`notes.md`** for detailed study notes on Git and GitHub basics
+3. Practice the commands listed in the notes on your own projects
+4. Use the GitHub workflow section as a reference when collaborating

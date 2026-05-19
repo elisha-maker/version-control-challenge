@@ -49,3 +49,18 @@ GitHub is an online platform for hosting Git repositories. A typical workflow in
 - Commit often with small, focused changes
 - Use branches for new features or fixes
 - Review your own work before merging
+- Never commit sensitive information (passwords, API keys)
+- Use `.gitignore` to exclude files that should not be tracked
+
+## Quick Reference: Branching Workflow
+
+```
+main branch:    A --- B --- C --- E (merge)
+                         \       /
+feature branch:           D ---
+```
+
+1. Create a branch from `main`
+2. Make your changes and commit on the feature branch
+3. Open a pull request on GitHub
+4. Review, discuss, and merge back into `main`
